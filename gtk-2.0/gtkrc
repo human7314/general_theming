@@ -1,0 +1,36 @@
+###############################
+#                             #
+#   ___ _ __ _ __ ___  _ __   #
+#  / _ \ '__| '__/ _ \| '__|  #
+# |  __/ |  | | | (_) | |     #
+#  \___|_|  |_|  \___/|_|     #
+#                             #
+#                             #
+###############################
+
+# GTK2 Theme Settings          
+gtk-theme-name = "Nordic-darker"
+gtk-icon-theme-name = "Norder-Darker"
+gtk-cursor-theme-name = "Simplify2"
+gtk-font-name = "JetBrainsMono Nerd Font Mono 10"
+
+# Enable animations
+gtk-enable-animations = 1
+
+# Toolbar style: icons and text
+gtk-toolbar-style = GTK_TOOLBAR_BOTH
+
+# Miscellaneous
+gtk-button-images = 1
+gtk-menu-popup-delay = 0
+
+#############################
+#                           #
+#                   __      #
+#        ___  ___  / _|     #
+#       / _ \/ _ \| |_      #
+#      |  __/ (_) |  _|     #
+#       \___|\___/|_|       #
+#                           #
+#                           # 
+#############################
