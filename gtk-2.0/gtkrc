@@ -9,7 +9,7 @@
 ###############################
 
 # GTK2 Theme Settings          
-gtk-theme-name = "Nordic-darker"
+gtk-theme-name = "Colloid-Dark-Nord"
 gtk-icon-theme-name = "Norder-Darker"
 gtk-cursor-theme-name = "Simplify2"
 gtk-font-name = "JetBrainsMono Nerd Font Mono 10"
